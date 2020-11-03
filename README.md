@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m flexible to collaborate with others
-- 🥅 2020 Goals: To purse my career successfully in IT Field
+- 🥅 2020 Goals: To pursue my career successfully in IT Field
 - ⚡ Fun fact: I love to Read Novels (last read 6 months ago 🤣)
 
 ### Connect with me:
