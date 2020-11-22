@@ -1,5 +1,7 @@
 ### Hi there, I'm Kritika Tripathi - aka [Kritika] 👋
 
+<img src=https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif>
+
 ## I'm a Full stack Developer (MERN)!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -12,6 +14,7 @@
 [<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
