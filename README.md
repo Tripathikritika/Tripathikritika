@@ -1,5 +1,8 @@
 ### Hi there, I'm Kritika Tripathi - aka [Kritika] 👋
 
+### 😄 Pronouns
+She/Her
+
 <img align="right" src= "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"  >
 
 ## I'm a Full stack Developer (MERN)!!
@@ -7,7 +10,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m flexible to collaborate with others
 - 🥅 2020 Goals: To pursue my career successfully in IT Field
-- ⚡ Fun fact: I love to Read Novels (last read 6 months ago 🤣)
+- 🌱 Fun fact: I love to Read Novels (last read 6 months ago 🤣)
+- 👯 Hobbies : Love to play board games and badminton
 
 ### Connect with me:
 
