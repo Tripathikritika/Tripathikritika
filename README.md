@@ -35,7 +35,10 @@
 </p>
 <br/>
 <br/>
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tripathikritika&show_icons=true&theme=monokai&hide=contribs" />
+<p align="center">
+         <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tripathikritika&show_icons=true&theme=monokai&hide=contribs" />
+
+  </p>
 
 
 [website]: https://Tripathikritika.github.io/
