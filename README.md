@@ -1,4 +1,4 @@
-### Hi there, I'm Kritika Tripathi - aka [Kritika] 👋
+### Hi there, I'm Kritika Tripathi 👋
 
 ### 😄 Pronouns
 She/Her
@@ -7,10 +7,10 @@ She/Her
 
 ## I'm a Full stack Developer (MERN)!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m flexible to collaborate with others
-- 🥅 2020 Goals: To pursue my career successfully in IT Field
-- 🌱 Fun fact: I love to Read Novels (last read 6 months ago 🤣)
+- 🥅 2021 Goals: To pursue my career successfully in IT Field
+- 🌱 Fun fact: I love to Read Novels (last read 10 months ago 🤣)
 - 👯 Hobbies : Love to play board games and badminton
 
 ### Connect with me:
