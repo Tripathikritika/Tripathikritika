@@ -13,6 +13,7 @@ She/Her
 - 🌱 Fun fact: I love to Read Novels (last read 10 months ago 🤣)
 - 👯 Hobbies : Love to play board games and badminton
 - 💭 Blogs :  https://kritikaktripathi.medium.com/hoisting-3452cd1f75af
+
               https://kritikaktripathi.medium.com/how-difficult-cloning-could-be-80941e6cf09a
 
 ### Connect with me:
