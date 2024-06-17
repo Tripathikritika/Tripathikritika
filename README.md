@@ -1,54 +1,56 @@
-### Hi there, I'm Kritika Tripathi 👋
+<h2> Hey there! I'm Kritika Tripathi 👋</h2>
 
-### 😄 Pronouns
-She/Her
+<div>
+  <img align="right" src= "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"  />
+</div>
 
-<img align="right" src= "https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px"  >
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-## I'm a Full stack Developer (MERN)!!
+- 😄 Pronouns She/Her
+- 👯 I’m currently working with @Instamojo as Software Engineer
+- 🌱 I’m currently working on React, React-Query, React-Redux, Javascript, Typescript, NextJs.
 
-- 🌱 I’m currently learning everything
-- 👯 I’m flexible to collaborate with others
-- 🥅 2021 Goals: To pursue my career successfully in IT Field
-- 🌱 Fun fact: I love to Read Novels
-- 👯 Hobbies : Love to play board games and badminton
-- 💭 Blogs :  https://kritikaktripathi.medium.com/hoisting-3452cd1f75af  <br />
-              https://kritikaktripathi.medium.com/how-difficult-cloning-could-be-80941e6cf09a
+### 🤝🏻 Connect with me:
 
-### Connect with me:
-
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-### Languages and Tools:
 <p>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge&logoColor=white">
-  <img src="https://camo.githubusercontent.com/0d4cf8449b112be3a6880161c2c766db23f72b19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d253333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e4a73266c6f676f436f6c6f723d7768697465" />
-  <img src="https://img.shields.io/badge/GIT%20-%23cb3a37.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <a href="https://twitter.com/kri_tripathi"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white" alt="X Badge"/></a>
+  <a href="https://www.linkedin.com/in/kritika-tripathi-a579b1aa/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="Linkein"/></a>
+  <a href="mailto:kritikaktripathi@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/Kritika-Tripathi/"><img src="https://img.shields.io/badge/-GITHUB-%23121011.svg?style=flat&logo=github&logoColor=white" alt="Github Badge"/></a>
 </p>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<div>
+<p >
+  
+   Languages:
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate&logo=html5&logoColor=white) &nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;
+  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E) &nbsp;
+  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) &nbsp;
+</p>
+<p>
+  
+   Frameworks:
+  ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) &nbsp;
+  ![React Query](https://img.shields.io/badge/-REACT%20QUERY-FF4154?style=flat&logo=react%20query&logoColor=white) &nbsp;
+  ![React Router](https://img.shields.io/badge/REACT_ROUTER-CA4245?style=flat&logo=react-router&logoColor=white) &nbsp;
+  ![Redux](https://img.shields.io/badge/REDUX-%23593d88.svg?style=flat&logo=redux&logoColor=white) &nbsp;
+  ![Next JS](https://img.shields.io/badge/NEXTJS-black?style=flat&logo=next.js&logoColor=white) &nbsp;
+  ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) &nbsp;
+  ![Chakra](https://img.shields.io/badge/-CHAKRAUI-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white) &nbsp;
+  ![MUI](https://img.shields.io/badge/MATERIALUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) &nbsp;
+</p>
+<p>
+  
+   Developer Tools: 
+  ![Bootstrap](https://img.shields.io/badge/BOOSTRAP-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/VUSAUL%20STUDIO%20CODE-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) &nbsp;
+  ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat&logo=git&logoColor=white) &nbsp;
+  ![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) &nbsp;
+  ![CircleCI](https://img.shields.io/badge/CIRCLE%20CI-%23161616.svg?style=flat&logo=circleci&logoColor=white) &nbsp;
+</p>
+ 
+</div>
 <br/>
 <br/>
-<p align="center">
-         <img  alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tripathikritika&show_icons=true&theme=monokai&hide=contribs" />
-
-  </p>
-
-
-[website]: https://Tripathikritika.github.io/
-[twitter]: https://twitter.com/kri_tripathi
-[linkedin]: https://www.linkedin.com/in/kritika-tripathi-a579b1aa/
-[webdevplaylist]: #
-
